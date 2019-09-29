@@ -36,6 +36,7 @@ def sortDictKeepIdx():
 
 def main():
     sortDictKeepIdx()
+    print(input())
 
 if __name__ == "__main__":
     main()
