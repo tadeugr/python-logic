@@ -33,11 +33,9 @@ def sortDictKeepIdx():
     print("-----")
     print(keepIdx)
     print("-----")
-    sys.stdout.flush()
 
 def main():
     sortDictKeepIdx()
-    sys.stdout.flush()
 
 if __name__ == "__main__":
     main()
