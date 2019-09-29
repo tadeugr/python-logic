@@ -1,0 +1,25 @@
+{
+  "name": "python-logic",
+  "version": "1.0.0",
+  "description": "Useful common python functions, such as sorting lists, dealing with strings, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node_modules/gulp/bin/gulp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadeugr/python-logic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tadeugr/python-logic/issues"
+  },
+  "homepage": "https://github.com/tadeugr/python-logic#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "python-shell": "^1.0.8"
+  }
+}
